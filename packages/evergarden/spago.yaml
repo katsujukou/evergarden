@@ -1,0 +1,11 @@
+package:
+  name: evergarden
+  dependencies:
+    - aff
+    - effect
+    - httpurple
+    - prelude
+    - routing-duplex
+    - typelevel-prelude
+    - typelevel-extra
+    - unordered-collections

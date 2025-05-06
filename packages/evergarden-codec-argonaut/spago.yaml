@@ -1,0 +1,5 @@
+package:
+  name: evergarden-codec-argonaut
+  dependencies:
+    - codec-argonaut
+    - evergarden

@@ -1,0 +1,6 @@
+package:
+  name: example-todo
+  dependencies:
+    - evergarden
+    - evergarden-codec-argonaut
+  
